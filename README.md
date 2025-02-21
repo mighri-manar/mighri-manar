@@ -1,6 +1,6 @@
-#Hi there, I'm Manar! 🚀
+# Hi there, I'm Manar! 🚀
 
-👩‍💻 ##About Me
+👩‍💻 ## About Me
 
 Hey! I'm Manar, a passionate Telecommunications Engineering student at ENIT, with a deep love for embedded systems, IoT, and automotive technology. 
 I thrive on low-level programming, cybersecurity, and problem-solving, and I'm always up for a challenge. 
@@ -8,7 +8,7 @@ Whether it's developing firmware, optimizing kernel modules, or pushing my limit
 
 
 
-🌱 ##What I'm Working On
+🌱 ## What I'm Working On
 
 🔹 Diagnostic Headphones Project @DB Sense Innovation Center - Integrating ambient noise measurement into hearing test devices using nRF5340 & Zephyr OS.
 
@@ -38,7 +38,7 @@ Whether it's developing firmware, optimizing kernel modules, or pushing my limit
 
 
 
-🏆 ##Achievements
+🏆 ## Achievements
 
 🏅 National Winner - INJAZ Tunisia: Most Innovative Idea Award
 
@@ -49,14 +49,14 @@ Whether it's developing firmware, optimizing kernel modules, or pushing my limit
 
 
 
-❤️ ##Beyond Tech
+❤️ ## Beyond Tech
 
 🏎 Car Enthusiast: Dreaming of racing a Porsche 911 GT3 RS one day.
 🌍 Resilient & Passionate: Life threw challenges at me, but I always rise stronger.
 
 
 
-📫 ##Let's Connect!
+📫 ## Let's Connect!
 
 ✉️ mighrimanar11@gmail.com
 
