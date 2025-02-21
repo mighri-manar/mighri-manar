@@ -12,7 +12,7 @@ Whether it's developing firmware, optimizing kernel modules, or pushing my limit
 
 🔹 Diagnostic Headphones Project @DB Sense Innovation Center - Integrating ambient noise measurement into hearing test devices using nRF5340 & Zephyr OS.
 
-🔹 A2SV Remote Education Program - Improving my algorithmic and problem-solving skills for ACPC and ICPC competitions.
+🔹 A2SV Remote Education Program - Improving my algorithmic and problem-solving skills.
 
 🔹 Cybersecurity Workshops - Training my peers in ethical hacking, network security, and best practices.
 
