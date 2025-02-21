@@ -45,4 +45,3 @@ Hey! I'm Manar, a passionate Telecommunications Engineering student at ENIT, wit
 
    💼 **LinkedIn**: [Manar Mighri](https://www.linkedin.com/in/manar-mighri/)
 
-💡 "Not just an engineer, but THE engineer."
