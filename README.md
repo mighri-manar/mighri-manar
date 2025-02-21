@@ -1,4 +1,4 @@
-# Hi there, I'm Manar! 🚀
+Hi there, I'm Manar! 🚀
 
 👩‍💻 ## About Me
 
@@ -21,7 +21,7 @@ Whether it's developing firmware, optimizing kernel modules, or pushing my limit
 
 
 
-🚀## Skills & Technologies
+🚀Skills & Technologies
 
 🔸 Embedded Systems: C, C++, Zephyr OS, FreeRTOS, nRF Connect SDK
 
@@ -58,6 +58,7 @@ Whether it's developing firmware, optimizing kernel modules, or pushing my limit
 
 📫 ## Let's Connect!
 
-✉️ mighrimanar11@gmail.com
+- [Email](mailto:your-mighrimanar11@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/manar-mighri/)
 
 💡 "Not just an engineer, but THE engineer."
