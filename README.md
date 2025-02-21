@@ -9,24 +9,37 @@ Whether it's developing firmware, optimizing kernel modules, or pushing my limit
 🌱 What I'm Working On
 
 🔹 Diagnostic Headphones Project @DB Sense Innovation Center - Integrating ambient noise measurement into hearing test devices using nRF5340 & Zephyr OS.
+
 🔹 A2SV Remote Education Program - Improving my algorithmic and problem-solving skills for ACPC and ICPC competitions.
+
 🔹 Cybersecurity Workshops - Training my peers in ethical hacking, network security, and best practices.
+
 🔹 GitHub Projects - Always tinkering with RTOS, kernel modules, and embedded development.
+
 
 🚀 Skills & Technologies
 
 🔸 Embedded Systems: C, C++, Zephyr OS, FreeRTOS, nRF Connect SDK
+
 🔸 Low-Level Programming: Assembly, Linux Kernel Modules, QEMU, STM32
+
 🔸 Cybersecurity: Ethical Hacking, Reverse Engineering, CTFs
+
 🔸 Software Development: Python, Java, Bash, Git, Vim
+
 🔸 Competitive Programming: C++, Data Structures & Algorithms
+
 🔸 Machine Learning & AI: CUDA (previously on Arch Linux 😉)
+
 
 🏆 Achievements
 
 🏅 National Winner - INJAZ Tunisia: Most Innovative Idea Award
+
 🥈 2nd Place - Startup City 1.0: Recognized for an impactful startup project
+
 🎖 Top 140 Nationally in Engineering Entry Exam
+
 
 ❤️ Beyond Tech
 
