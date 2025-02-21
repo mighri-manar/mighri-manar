@@ -37,10 +37,12 @@ Hey! I'm Manar, a passionate Telecommunications Engineering student at ENIT, wit
 
 ### ❤️ Beyond Tech
 🏎 **Car Enthusiast**: Dreaming of racing a Porsche 911 GT3 RS one day.
+
 🌍 **Resilient & Passionate**: Life threw challenges at me, but I always rise stronger.
 
 ### 📫 Let's Connect!
 📧 **Email**: [mighrimanar11@gmail.com](mailto:mighrimanar11@gmail.com)
+
 💼 **LinkedIn**: [Manar Mighri](https://www.linkedin.com/in/manar-mighri/)
 
 💡 "Not just an engineer, but THE engineer."
