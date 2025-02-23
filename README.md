@@ -27,19 +27,6 @@ Hey! I'm Manar, a passionate Telecommunications Engineering student at ENIT, wit
    🔸 **Machine Learning & AI**: CUDA (previously on Arch Linux 😉)
 
 
-### 🏆 Achievements
-   🏅**National Winner - INJAZ Tunisia**: Most Innovative Idea Award
-
-   🥈 **2nd Place - Startup City 1.0**: Recognized for an impactful startup project
-
-   🎖 **Top 140 Nationally in Engineering Entry Exam**
-
-
-### ❤️ Beyond Tech
-   🏎 **Car Enthusiast**: Dreaming of racing a Porsche 911 GT3 RS one day.
-
-   🌍 **Resilient & Passionate**: Life threw challenges at me, but I always rise stronger.
-
 ### 📫 Let's Connect!
    📧 **Email**: [mighrimanar11@gmail.com](mailto:mighrimanar11@gmail.com)
 
