@@ -24,7 +24,7 @@ Hey! I'm Manar, a passionate Telecommunications Engineering student at ENIT, wit
 
    🔸 **Competitive Programming**: C++, Data Structures & Algorithms
 
-   🔸 **Machine Learning & AI**: CUDA (previously on Arch Linux 😉)
+   🔸 **Machine Learning & AI**: CUDA ( on Arch Linux 😉)
 
 
 ### 📫 Let's Connect!
