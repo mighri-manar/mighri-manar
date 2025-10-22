@@ -1,4 +1,4 @@
-# Hi there, I'm Manar! 🚀
+# Hi there, I'm Manar! 🦄
 
 ## 👩‍💻 About Me
 Hey! I'm Manar, a passionate Telecommunications Engineering student at ENIT, with a deep love for embedded systems, network infrastructure, and cybersecurity. I thrive on low-level programming, system design, and problem-solving.
