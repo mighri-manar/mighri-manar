@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-Telecommunications Engineering student at **ENIT** with a passion for **embedded systems**, **network infrastructure**, and **cybersecurity**. I build things from the ground up—whether it's real-time embedded devices, secure network architectures, or CTF challenges.
+Telecommunications Engineering student at **ENIT** with a passion for **embedded systems**, **network infrastructure**, and **cybersecurity**. I build things from the ground up, whether it's real-time embedded devices, secure network architectures, or CTF challenges.
 
 🎯 **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club  
 🌍 **A2SV Alumni** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
