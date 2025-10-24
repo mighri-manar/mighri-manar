@@ -37,7 +37,7 @@ Wireless hearing diagnostic device using **nRF5340** + **Zephyr RTOS**
 </td>
 <td width="50%">
 
-### 🤖 [RL Credit Risk System](https://github.com/mighri-manar/credit-line-adjuster)
+### 🤖 [RL Credit Risk System](https://github.com/mighri-manar/Credit-Line-Adjuster---Reinforcement-Learning-)
 Multi-agent Q-Learning on **307K+ banking customers**
 
 **Tech:** Python, Reinforcement Learning, NumPy  
@@ -48,7 +48,7 @@ Multi-agent Q-Learning on **307K+ banking customers**
 <tr>
 <td width="50%">
 
-### 🎮 [Custom 2D Game Engine](https://github.com/mighri-manar/SDL2-Game-Engine)
+### 🎮 [Custom 2D Game Engine](https://github.com/mighri-manar/SDL2-project)
 Built from scratch in **C++/SDL2** with ECS architecture
 
 **Tech:** C++, SDL2, Physics Engine  
