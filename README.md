@@ -48,11 +48,11 @@ Multi-agent Q-Learning on **307K+ banking customers**
 <tr>
 <td width="50%">
 
-### 🎮 [Custom 2D Game Engine](https://github.com/mighri-manar/SDL2-project)
-Built from scratch in **C++/SDL2** with ECS architecture
+### 🎮 [Distributed IDS - ML based](https://github.com/mighri-manar/Distributed-Intrusion-Detection-Supervised-Learning-on-CICIDS2017)
+A machine learning project for detecting network intrusions and web attacks using the CICIDS2017 dataset.
 
-**Tech:** C++, SDL2, Physics Engine  
-**Scale:** 60+ modular components, custom rendering pipeline
+**Tech:** Python, Big Data, Apache Spark, ML
+**Scale:** 2.8M line dataset
 
 </td>
 <td width="50%">
