@@ -52,7 +52,8 @@ Multi-agent Q-Learning on **307K+ banking customers**
 A machine learning project for detecting network intrusions and web attacks using the CICIDS2017 dataset.
 
 **Tech:** Python, Big Data, Apache Spark, ML
-**Scale:** 2.8M line dataset
+
+
 
 </td>
 <td width="50%">
