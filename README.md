@@ -14,11 +14,11 @@
 
 ## 👩‍💻 About Me
 
-Network Security Engineer and Telecommunications graduate from **ENIT** specializing in **cybersecurity infrastructure**, **low-level systems programming**, and **reinforcement learning**. I build secure systems from the ground up—whether it's SIEM architectures processing thousands of security events, CTF challenges for national competitions, or RL agents optimizing complex decision systems.
+Network Security Engineer and Telecommunications graduate from **ENIT** specializing in **cybersecurity infrastructure** and **low-level systems programming**.
 
 🔒 **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club with 50+ active members  
 🌍 **A2SV Graduate** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
-🏢 **Network Security Experience** @ Orange Tunisie – Built production telecom systems with 30% downtime reduction
+🏢 **Network Security Experience** @ Orange – Built production telecom systems with 30% downtime reduction
 
 ---
 
@@ -28,14 +28,7 @@ Network Security Engineer and Telecommunications graduate from **ENIT** speciali
 <tr>
 <td width="50%">
 
-### 🔒 [Cloud Security Monitoring Platform](https://github.com/mighri-manar/cloud-monitoring)
-Production-grade SIEM with **Wazuh + Suricata + ELK Stack**
 
-**Tech:** VMware, GNS3, Elasticsearch, Nagios, Docker  
-**Impact:** Real-time threat detection across 3 virtualized subnets with automated alerting
-
-</td>
-<td width="50%">
 
 ### 🎯 [Distributed IDS - ML Based](https://github.com/mighri-manar/Distributed-Intrusion-Detection-Supervised-Learning-on-CICIDS2017)
 Big Data intrusion detection on **CICIDS2017 dataset**
@@ -56,6 +49,16 @@ Multi-agent Q-Learning trained on **307K+ banking customers**
 
 </td>
 <td width="50%">
+
+### 🎧 [BLE Audio Audiometry System](https://github.com/mighri-manar/BLE_HEADPHONES_FOR_AUDIOMETRY)
+Wireless hearing diagnostic device using **nRF5340** + **Zephyr RTOS**
+
+**Tech:** C, BLE Audio, LC3 Codec, I²S  
+**Impact:** Sub-50ms latency for medical-grade diagnostics
+
+</td>
+<td width="50%">
+
 
 ### 🌐 [SD-WAN Multi-Site SDN Network](https://github.com/mighri-manar/sd-wan-sdn)
 Software-defined network with dynamic path selection
@@ -131,10 +134,14 @@ Software-defined network with dynamic path selection
 
 **🌍 A2SV (Africa to Silicon Valley)** | Software Engineering Graduate  
 `Jan 2025 – Jul 2025`  
-- Selected as **1 of 200** from 4,000+ applicants for intensive software engineering program
-- Completed advanced coursework in data structures, algorithms, system design, and distributed systems
-- Collaborated with top-tier engineering talent across Africa on complex technical challenges
+- Selected as **1 of 200** from 4,000+ applicants
+- Advanced training in algorithms, system design, data structures
 
+**🎧 dB.Sense Innovation Center** | Embedded Systems Intern  
+`Sep 2024 – May 2025`  
+- Designed real-time BLE Audio system for auditory diagnostics
+- Achieved **sub-50ms latency** using nRF5340 + Zephyr RTOS
+  
 ---
 
 ## 🏆 Leadership & Community
@@ -150,14 +157,6 @@ Co-founded startup winning "Most Innovative Idea in Tunisia 2023" and 2nd place 
 
 ---
 
-## 📚 Currently Exploring
-
-- **Advanced Binary Exploitation:** ROP chains, heap exploitation, format string vulnerabilities
-- **Kubernetes Security:** Service mesh hardening, policy enforcement, container security
-- **Deep Reinforcement Learning:** Multi-agent systems, policy gradient methods
-- **Network Forensics:** Advanced traffic analysis, malware communication patterns
-
----
 
 ## 📈 Activity Graph
 
