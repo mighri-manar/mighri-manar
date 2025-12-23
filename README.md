@@ -85,6 +85,9 @@ Software-defined network with dynamic path selection
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-0091BD?style=flat)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=flat)
 
 **Specialties:** Memory management, socket programming, multi-threading, binary exploitation
 
@@ -103,7 +106,7 @@ Software-defined network with dynamic path selection
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Platforms:** Debian/Arch Linux administration, Windows Server, Infrastructure as Code
+**Platforms:** Debian/Arch Linux administration, Windows Server
 
 ---
 
