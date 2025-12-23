@@ -121,10 +121,6 @@ active_projects:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/mighri-manar" />
-  <img src="https://streak-stats.demolab.com?user=mighri-manar&theme=tokyonight" />
-</p>
 
 
 ---
