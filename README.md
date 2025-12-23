@@ -57,7 +57,7 @@ Wireless hearing diagnostic device using **nRF5340** + **Zephyr RTOS**
 </td>
 <td width="50%">
 
-### 🌐 [SD-WAN Multi-Site SDN Network](https://github.com/mighri-manar/sd-wan-sdn)
+### 🌐 [SD-WAN Multi-Site SDN Network](https://github.com/mighri-manar/SD-WAN-Multi-Site-Network-with-Intelligent-Routing)  
 Software-defined network with dynamic path selection
 
 **Tech:** EVE-NG, Ryu SDN Controller, OpenFlow, GRE/VXLAN  
