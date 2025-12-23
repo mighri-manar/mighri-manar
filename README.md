@@ -121,15 +121,11 @@ active_projects:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://metrics.lecoq.io/mighri-manar" />
+  <img src="https://streak-stats.demolab.com?user=mighri-manar&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mighri-manar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mighri-manar&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mighri-manar&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
