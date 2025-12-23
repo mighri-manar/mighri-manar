@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Telecom+Engineer;Network+Security+Enthusiast;CTF+Challenge+Designer;Low-Level+Programming+Lover)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Network+Security+Engineer;CTF+Challenge+Designer;Low-Level+Systems+Programmer;Reinforcement+Learning+Enthusiast)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manar-mighri/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mighrimanar11@gmail.com)
@@ -14,11 +14,11 @@
 
 ## 👩‍💻 About Me
 
-Telecommunications Engineering student at **ENIT** with a passion for **embedded systems**, **network infrastructure**, and **cybersecurity**. I build things from the ground up, whether it's real-time embedded devices, secure network architectures, or CTF challenges.
+Network Security Engineer and Telecommunications graduate from **ENIT** specializing in **cybersecurity infrastructure**, **low-level systems programming**, and **reinforcement learning**. I build secure systems from the ground up—whether it's SIEM architectures processing thousands of security events, CTF challenges for national competitions, or RL agents optimizing complex decision systems.
 
-🎯 **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club  
-🌍 **A2SV Alumni** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
-🏢 **Intern @ Orange Tunisie & dB.Sense** – Built production systems with measurable impact
+🔒 **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club with 50+ active members  
+🌍 **A2SV Graduate** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
+🏢 **Network Security Experience** @ Orange Tunisie – Built production telecom systems with 30% downtime reduction
 
 ---
 
@@ -28,99 +28,86 @@ Telecommunications Engineering student at **ENIT** with a passion for **embedded
 <tr>
 <td width="50%">
 
-### 🎧 [BLE Audio Audiometry System](https://github.com/mighri-manar/BLE_HEADPHONES_FOR_AUDIOMETRY)
-Wireless hearing diagnostic device using **nRF5340** + **Zephyr RTOS**
+### 🔒 [Cloud Security Monitoring Platform](https://github.com/mighri-manar/cloud-monitoring)
+Production-grade SIEM with **Wazuh + Suricata + ELK Stack**
 
-**Tech:** C, BLE Audio, LC3 Codec, I²S  
-**Impact:** Sub-50ms latency for medical-grade diagnostics
+**Tech:** VMware, GNS3, Elasticsearch, Nagios, Docker  
+**Impact:** Real-time threat detection across 3 virtualized subnets with automated alerting
 
 </td>
 <td width="50%">
 
-### 🤖 [RL Credit Risk System](https://github.com/mighri-manar/Credit-Line-Adjuster---Reinforcement-Learning-)
-Multi-agent Q-Learning on **307K+ banking customers**
+### 🎯 [Distributed IDS - ML Based](https://github.com/mighri-manar/Distributed-Intrusion-Detection-Supervised-Learning-on-CICIDS2017)
+Big Data intrusion detection on **CICIDS2017 dataset**
 
-**Tech:** Python, Reinforcement Learning, NumPy  
-**Impact:** +1070% improvement over baseline policy
+**Tech:** Apache Spark, Python, Supervised Learning  
+**Scale:** Processing network traffic data for web attack detection
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎮 [Distributed IDS - ML based](https://github.com/mighri-manar/Distributed-Intrusion-Detection-Supervised-Learning-on-CICIDS2017)
-A machine learning project for detecting network intrusions and web attacks using the CICIDS2017 dataset.
+### 🤖 [RL Credit Risk System](https://github.com/mighri-manar/Credit-Line-Adjuster---Reinforcement-Learning-)
+Multi-agent Q-Learning trained on **307K+ banking customers**
 
-**Tech:** Python, Big Data, Apache Spark, ML
-
-
+**Tech:** Python, Reinforcement Learning, NumPy  
+**Impact:** +1070% improvement over baseline policy through 4 distinct training paradigms
 
 </td>
 <td width="50%">
 
-### 🔒 [Cloud Security Monitoring Platform](https://github.com/mighri-manar/cloud-monitoring)
-Comprehensive SIEM with **Wazuh + Suricata + ELK Stack**
+### 🌐 [SD-WAN Multi-Site SDN Network](https://github.com/mighri-manar/sd-wan-sdn)
+Software-defined network with dynamic path selection
 
-**Tech:** VMware, GNS3, Elasticsearch, Nagios  
-**Features:** Real-time threat detection, QoS monitoring
+**Tech:** EVE-NG, Ryu SDN Controller, OpenFlow, GRE/VXLAN  
+**Features:** Automated tunneling, latency-based routing, OpenFlow firewall
 
 </td>
 </tr>
 </table>
 
----
 
-## 🌱 Currently Building
-
-```yaml
-active_projects:
-  - Cloud Monitoring & Network Security Platform
-    stack: [VMware, GNS3, ELK Stack, Wazuh, Suricata, Nagios]
-    status: "In Progress"
-  
-  - Cybersecurity CTF Challenges
-    role: "Challenge Author"
-    scope: "National-level competitions"
-    status: "Ongoing"
-```
-
----
 
 ## 🛠️ Tech Stack
 
-### Embedded Systems & Low-Level
+### Security & Infrastructure
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-darkgreen?style=flat)
+
+**Tools:** Wazuh, ELK Stack (Elasticsearch, Kibana, Logstash), Nagios, Grafana, Cisco IOS
+
+### Low-Level & Systems Programming
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-0091BD?style=flat)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=flat)
-
-**Hardware:** nRF5340, STM32, ESP32, Nordic SoCs
-
-### Networking & Security
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat)
-![GNS3](https://img.shields.io/badge/GNS3-darkgreen?style=flat)
-
-**Tools:** Wazuh, ELK Stack, Nagios, Cisco IOS, OSPF, VLANs
-
-### Software Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**Specialties:** Memory management, socket programming, multi-threading, binary exploitation
+
+### Networking & Protocols
+**Core:** TCP/IP, OSPF, VLANs, VLSM subnetting, MPLS, SD-WAN, OpenFlow  
+**Security:** IDS/IPS deployment, SIEM architecture, network forensics, traffic analysis
+
+### Machine Learning & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Focus:** Reinforcement Learning (Q-Learning, multi-agent systems), Apache Spark, Big Data processing
 
 ### Systems & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Platforms:** Debian/Arch Linux administration, Windows Server, Infrastructure as Code
 
 ---
 
 ## 📊 GitHub Stats
-
 
 <div align="center">
 
@@ -132,33 +119,43 @@ active_projects:
 
 </div>
 
+---
 
 ## 💼 Professional Experience
 
 **🟠 Orange Tunisie** | Network System Intern  
 `Jul 2025 – Aug 2025`  
-- Built Java-based OCS-HLR gateway with **30% downtime reduction**
-- Multi-threaded client-server architecture with dynamic configuration
+- Architected Java-based OCS-HLR gateway reducing system downtime by **30%** for critical telecom signaling
+- Implemented fault-tolerant multi-threaded client-server architecture with dynamic runtime configuration
+- Designed socket-based communication layer handling concurrent connections with proper error handling
 
-**🎧 dB.Sense Innovation Center** | Embedded Systems Intern  
-`Sep 2024 – May 2025`  
-- Designed real-time BLE Audio system for auditory diagnostics
-- Achieved **sub-50ms latency** using nRF5340 + Zephyr RTOS
-
-**🌍 A2SV (Africa to Silicon Valley)** | Software Engineering Trainee  
+**🌍 A2SV (Africa to Silicon Valley)** | Software Engineering Graduate  
 `Jan 2025 – Jul 2025`  
-- Selected as **1 of 200** from 4,000+ applicants
-- Advanced training in algorithms, system design, data structures
+- Selected as **1 of 200** from 4,000+ applicants for intensive software engineering program
+- Completed advanced coursework in data structures, algorithms, system design, and distributed systems
+- Collaborated with top-tier engineering talent across Africa on complex technical challenges
 
 ---
 
 ## 🏆 Leadership & Community
 
-**🔒 Co-Founder & Instructor** – Securinets ENIT (2024–Present)  
-Launched ENIT's first cybersecurity club with **50+ active members**. Lead workshops on CTF, reverse engineering, and network security.
+**🔒 Co-Founder & Lead Instructor** – Securinets ENIT (2024–Present)  
+Launched ENIT's first cybersecurity club, growing to **50+ active members**. Lead technical workshops on CTF competitions, reverse engineering, network security, penetration testing, and binary exploitation.
 
-**🎯 CTF Challenge Author** (2025–Present)  
-Designed and deployed original cybersecurity challenges for national-level competitions with full infrastructure management.
+**🎯 CTF Challenge Author** (2024–Present)  
+Design and deploy original cybersecurity challenges for national-level competitions. Manage full infrastructure including challenge deployment, scoring systems, and security monitoring. Specialized in binary exploitation, network forensics, and cryptography challenges.
+
+**🏅 National Startup Competition Winner** (2023)  
+Co-founded startup winning "Most Innovative Idea in Tunisia 2023" and 2nd place in JCI Startup City. Led all investor pitches and technical presentations.
+
+---
+
+## 📚 Currently Exploring
+
+- **Advanced Binary Exploitation:** ROP chains, heap exploitation, format string vulnerabilities
+- **Kubernetes Security:** Service mesh hardening, policy enforcement, container security
+- **Deep Reinforcement Learning:** Multi-agent systems, policy gradient methods
+- **Network Forensics:** Advanced traffic analysis, malware communication patterns
 
 ---
 
@@ -170,21 +167,11 @@ Designed and deployed original cybersecurity challenges for national-level compe
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on **embedded systems**, **cybersecurity**, or **low-level programming** projects!
+I'm always open to collaborating on **network security**, **low-level systems programming**, **reinforcement learning**, or **CTF challenge design** projects!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manar-mighri/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mighrimanar11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mighri-manar)
-
-</div>
-
----
-
-<div align="center">
-
-*"Building systems from the silicon up"*
+*"Building secure systems from the silicon up"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mighri-manar&color=brightgreen&style=flat-square)
 
