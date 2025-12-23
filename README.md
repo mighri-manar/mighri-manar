@@ -27,45 +27,30 @@ Network Security Engineer and Telecommunications graduate from **ENIT** speciali
 <table>
 <tr>
 <td width="50%">
-
-
-
-### 🎯 [Distributed IDS - ML Based](https://github.com/mighri-manar/Distributed-Intrusion-Detection-Supervised-Learning-on-CICIDS2017)
-Big Data intrusion detection on **CICIDS2017 dataset**
-
-**Tech:** Apache Spark, Python, Supervised Learning  
-**Scale:** Processing network traffic data for web attack detection
-
+🎯 Distributed IDS - ML Based
+Big Data intrusion detection on CICIDS2017 dataset
+Tech: Apache Spark, Python, Supervised Learning
+Scale: Processing network traffic data for web attack detection
+</td>
+<td width="50%">
+🤖 RL Credit Risk System
+Multi-agent Q-Learning trained on 307K+ banking customers
+Tech: Python, Reinforcement Learning, NumPy
+Impact: +1070% improvement over baseline policy through 4 distinct training paradigms
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### 🤖 [RL Credit Risk System](https://github.com/mighri-manar/Credit-Line-Adjuster---Reinforcement-Learning-)
-Multi-agent Q-Learning trained on **307K+ banking customers**
-
-**Tech:** Python, Reinforcement Learning, NumPy  
-**Impact:** +1070% improvement over baseline policy through 4 distinct training paradigms
-
+🎧 BLE Audio Audiometry System
+Wireless hearing diagnostic device using nRF5340 + Zephyr RTOS
+Tech: C, BLE Audio, LC3 Codec, I²S
+Impact: Sub-50ms latency for medical-grade diagnostics
 </td>
 <td width="50%">
-
-### 🎧 [BLE Audio Audiometry System](https://github.com/mighri-manar/BLE_HEADPHONES_FOR_AUDIOMETRY)
-Wireless hearing diagnostic device using **nRF5340** + **Zephyr RTOS**
-
-**Tech:** C, BLE Audio, LC3 Codec, I²S  
-**Impact:** Sub-50ms latency for medical-grade diagnostics
-
-</td>
-<td width="50%">
-
-
-### 🌐 [SD-WAN Multi-Site SDN Network](https://github.com/mighri-manar/sd-wan-sdn)
+🌐 SD-WAN Multi-Site SDN Network
 Software-defined network with dynamic path selection
-
-**Tech:** EVE-NG, Ryu SDN Controller, OpenFlow, GRE/VXLAN  
-**Features:** Automated tunneling, latency-based routing, OpenFlow firewall
-
+Tech: EVE-NG, Ryu SDN Controller, OpenFlow, GRE/VXLAN
+Features: Automated tunneling, latency-based routing, OpenFlow firewall
 </td>
 </tr>
 </table>
