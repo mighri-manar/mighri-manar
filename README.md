@@ -131,7 +131,7 @@ active_projects:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mighri-manar&theme=tokyonight&hide_border=true)
 
 </div>
----
+
 
 ## 💼 Professional Experience
 
