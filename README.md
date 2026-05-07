@@ -12,23 +12,23 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Network Security Engineer and Telecommunications graduate from **ENIT** specializing in **cybersecurity infrastructure** and **low-level systems programming**.
 
-🔒 **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club with 50+ active members  
-🌍 **A2SV Graduate** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
-🏢 **Network Security Experience** @ Orange – Built production telecom systems with 30% downtime reduction
+ **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club with 50+ active members  
+ **A2SV Graduate** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
+ **Network Security Experience** @ Orange – Built production telecom systems with 30% downtime reduction
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 [Distributed IDS - ML Based](https://github.com/mighri-manar/Distributed-Intrusion-Detection-Supervised-Learning-on-CICIDS2017)
+###  [Distributed IDS - ML Based](https://github.com/mighri-manar/Distributed-Intrusion-Detection-Supervised-Learning-on-CICIDS2017)
 Big Data intrusion detection on **CICIDS2017 dataset**
 
 **Tech:** Apache Spark, Python, Supervised Learning  
@@ -37,7 +37,7 @@ Big Data intrusion detection on **CICIDS2017 dataset**
 </td>
 <td width="50%">
 
-### 🤖 [RL Credit Risk System](https://github.com/mighri-manar/Credit-Line-Adjuster---Reinforcement-Learning-)
+###  [RL Credit Risk System](https://github.com/mighri-manar/Credit-Line-Adjuster---Reinforcement-Learning-)
 Multi-agent Q-Learning trained on **307K+ banking customers**
 
 **Tech:** Python, Reinforcement Learning, NumPy  
@@ -57,7 +57,7 @@ Wireless hearing diagnostic device using **nRF5340** + **Zephyr RTOS**
 </td>
 <td width="50%">
 
-### 🌐 [SD-WAN Multi-Site SDN Network](https://github.com/mighri-manar/SD-WAN-Multi-Site-Network-with-Intelligent-Routing)  
+###  [SD-WAN Multi-Site SDN Network](https://github.com/mighri-manar/SD-WAN-Multi-Site-Network-with-Intelligent-Routing)  
 Software-defined network with dynamic path selection
 
 **Tech:** Ryu SDN Controller, OpenFlow, GRE/VXLAN  
@@ -124,47 +124,47 @@ Software-defined network with dynamic path selection
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-**🟠 Orange Tunisie** | Network System Intern  
+** Orange Tunisie** | Network System Intern  
 `Jul 2025 – Aug 2025`  
 - Architected Java-based OCS-HLR gateway reducing system downtime by **30%** for critical telecom signaling
 - Implemented fault-tolerant multi-threaded client-server architecture with dynamic runtime configuration
 - Designed socket-based communication layer handling concurrent connections with proper error handling
 
-**🌍 A2SV (Africa to Silicon Valley)** | Software Engineering Graduate  
+** A2SV (Africa to Silicon Valley)** | Software Engineering Graduate  
 `Jan 2025 – Jul 2025`  
 - Selected as **1 of 200** from 4,000+ applicants
 - Advanced training in algorithms, system design, data structures
 
-**🎧 dB.Sense Innovation Center** | Embedded Systems Intern  
+** dB.Sense Innovation Center** | Embedded Systems Intern  
 `Sep 2024 – May 2025`  
 - Designed real-time BLE Audio system for auditory diagnostics
 - Achieved **sub-50ms latency** using nRF5340 + Zephyr RTOS
   
 ---
 
-## 🏆 Leadership & Community
+##  Leadership & Community
 
-**🔒 Co-Founder & Lead Instructor** – Securinets ENIT (2024–Present)  
+** Co-Founder & Lead Instructor** – Securinets ENIT (2024–Present)  
 Launched ENIT's first cybersecurity club, growing to **50+ active members**. Lead technical workshops on CTF competitions, reverse engineering, network security, penetration testing, and binary exploitation.
 
-**🎯 CTF Challenge Author** (2024–Present)  
+** CTF Challenge Author** (2024–Present)  
 Design and deploy original cybersecurity challenges for national-level competitions. Manage full infrastructure including challenge deployment, scoring systems, and security monitoring. Specialized in binary exploitation, network forensics, and cryptography challenges.
 
-**🏅 National Startup Competition Winner** (2023)  
+** National Startup Competition Winner** (2023)  
 Co-founded startup winning "Most Innovative Idea in Tunisia 2023" and 2nd place in JCI Startup City. Led all investor pitches and technical presentations.
 
 ---
 
 
-## 📈 Activity Graph
+##  Activity Graph
 
 [![Manar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mighri-manar&theme=tokyo-night&hide_border=true)](https://github.com/mighri-manar)
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always open to collaborating on **network security**, **low-level systems programming**, **reinforcement learning**, or **CTF challenge design** projects!
 
