@@ -1,4 +1,4 @@
-# Hi there, I'm Manar! 👋
+# Hi there, I'm Manar! 
 
 <div align="center">
 
