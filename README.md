@@ -131,10 +131,10 @@ Software-defined network with dynamic path selection
 
 ---
 
-## 🎓 Education
+##  Education
 
 **PhD, Cybersecurity** – École de technologie supérieure (ÉTS), Montréal · LCSEC lab  
-`2026 – Present` (incoming, Dec 2026)  
+`2026 – Present` (incoming, Jan 2027)  
 Research: automated attack-chain reconstruction and MITRE ATT&CK attribution with LLMs over defensive telemetry.
 
 **National Engineering Diploma, Telecommunications** – National Engineering School of Tunis (ENIT)  
