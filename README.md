@@ -14,9 +14,9 @@
 
 ##  About Me
 
-**Incoming PhD student** at **École de technologie supérieure (ÉTS), Montréal** – LCSEC lab, researching **LLM-driven attack-chain reconstruction** and **MITRE ATT&CK attribution** over defensive telemetry. Network Security Engineer and Telecommunications engineer (**ENIT**) with a background in **cybersecurity infrastructure** and **low-level systems programming**.
+**Incoming PhD student** at **École de technologie supérieure (ÉTS), Montréal** – LCSEC lab, researching **LLM-driven attack-chain reconstruction**. Telecommunications engineer (**ENIT**) with a background in **cybersecurity infrastructure** and **low-level systems programming**.
 
- **PhD @ ÉTS – LCSEC** (starting Dec 2026) – Automated kill-chain reconstruction with LLMs, in collaboration with StreamScan  
+ **PhD @ ÉTS – LCSEC** (starting Jan 2027) – Automated kill-chain reconstruction with LLMs.  
  **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club with 50+ active members  
  **A2SV Graduate** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
  **Network Security Experience** @ Orange – Built production telecom systems with 30% downtime reduction
@@ -25,11 +25,10 @@
 
 ##  Featured Projects
 
-### 🔬 Automated Kill-Chain Reconstruction with LLMs &nbsp; 🔒 *Private — ÉTS · StreamScan*
-Blind reconstruction of attack chains from **defensive SOC telemetry** alone — no attacker logs, no training — labeling each step with its **MITRE ATT&CK** technique. A four-stage pipeline: multi-sensor ingestion, an ATT&CK knowledge base for grounding, prompt-strategy comparison, and a tool-using iterative agent.
+### Automated Kill-Chain Reconstruction with LLMs &nbsp; *Private — ÉTS · StreamScan*
+Blind reconstruction of attack chains from **defensive SOC telemetry** alone, labeling each step with its **MITRE ATT&CK** technique. A four-stage pipeline: multi-sensor ingestion, an ATT&CK knowledge base for grounding, prompt-strategy comparison, and a tool-using iterative agent.
 
 **Tech:** Python, LLMs (Qwen 35B), agentic tool-use, MITRE ATT&CK / STIX, Suricata · auditd · Zeek · Docker · PCAP  
-**Key finding:** a *two-sided bound* — the telemetry caps what any model can recover (no cloud-class model exceeded it), while a **local open-weights model stays competitive** and keeps the data on-prem. *Graduation project, defended 2026 at ENIT with ÉTS-LCSEC & StreamScan.*
 
 <table>
 <tr>
