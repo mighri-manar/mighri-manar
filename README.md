@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Network+Security+Engineer;CTF+Challenge+Designer;Reinforcement+Learning+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=PhD+Researcher+%40+ETS+Montreal;LLM-based+Threat+Detection;Network+Security+Engineer;CTF+Challenge+Designer)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manar-mighri/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mighrimanar11@gmail.com)
@@ -14,8 +14,9 @@
 
 ##  About Me
 
-Network Security Engineer and Telecommunications graduate from **ENIT** specializing in **cybersecurity infrastructure** and **low-level systems programming**.
+**Incoming PhD student** at **École de technologie supérieure (ÉTS), Montréal** – LCSEC lab, researching **LLM-driven attack-chain reconstruction** and **MITRE ATT&CK attribution** over defensive telemetry. Network Security Engineer and Telecommunications engineer (**ENIT**) with a background in **cybersecurity infrastructure** and **low-level systems programming**.
 
+ **PhD @ ÉTS – LCSEC** (starting Dec 2026) – Automated kill-chain reconstruction with LLMs, in collaboration with StreamScan  
  **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's first cybersecurity club with 50+ active members  
  **A2SV Graduate** – Selected as 1 of 200 from 4,000+ applicants for intensive software engineering training  
  **Network Security Experience** @ Orange – Built production telecom systems with 30% downtime reduction
@@ -23,6 +24,12 @@ Network Security Engineer and Telecommunications graduate from **ENIT** speciali
 ---
 
 ##  Featured Projects
+
+### 🔬 Automated Kill-Chain Reconstruction with LLMs &nbsp; 🔒 *Private — ÉTS · StreamScan*
+Blind reconstruction of attack chains from **defensive SOC telemetry** alone — no attacker logs, no training — labeling each step with its **MITRE ATT&CK** technique. A four-stage pipeline: multi-sensor ingestion, an ATT&CK knowledge base for grounding, prompt-strategy comparison, and a tool-using iterative agent.
+
+**Tech:** Python, LLMs (Qwen 35B), agentic tool-use, MITRE ATT&CK / STIX, Suricata · auditd · Zeek · Docker · PCAP  
+**Key finding:** a *two-sided bound* — the telemetry caps what any model can recover (no cloud-class model exceeded it), while a **local open-weights model stays competitive** and keeps the data on-prem. *Graduation project, defended 2026 at ENIT with ÉTS-LCSEC & StreamScan.*
 
 <table>
 <tr>
@@ -74,6 +81,7 @@ Software-defined network with dynamic path selection
 ### Security & Infrastructure
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C22D40?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-darkgreen?style=flat)
@@ -95,11 +103,11 @@ Software-defined network with dynamic path selection
 **Core:** TCP/IP, OSPF, VLANs, VLSM subnetting, MPLS, SD-WAN, OpenFlow  
 **Security:** IDS/IPS deployment, SIEM architecture, network forensics, traffic analysis
 
-### Machine Learning & Data
+### Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Focus:** Reinforcement Learning (Q-Learning, multi-agent systems), Apache Spark, Big Data processing
+**Focus:** LLMs & agentic tool-use for security, LLM-driven threat detection & ATT&CK attribution, Reinforcement Learning (Q-Learning, multi-agent systems), Apache Spark, Big Data processing
 
 ### Systems & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -121,6 +129,18 @@ Software-defined network with dynamic path selection
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mighri-manar&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 🎓 Education
+
+**PhD, Cybersecurity** – École de technologie supérieure (ÉTS), Montréal · LCSEC lab  
+`2026 – Present` (incoming, Dec 2026)  
+Research: automated attack-chain reconstruction and MITRE ATT&CK attribution with LLMs over defensive telemetry.
+
+**National Engineering Diploma, Telecommunications** – National Engineering School of Tunis (ENIT)  
+`2023 – 2026`  
+Graduation project in collaboration with ÉTS-LCSEC & StreamScan.
 
 ---
 
@@ -166,7 +186,7 @@ Co-founded startup winning "Most Innovative Idea in Tunisia 2023" and 2nd place 
 
 ## Let's Connect!
 
-I'm always open to collaborating on **network security**, **low-level systems programming**, **reinforcement learning**, or **CTF challenge design** projects!
+I'm always open to collaborating on **LLM-based threat detection**, **network security**, **low-level systems programming**, **reinforcement learning**, or **CTF challenge design** projects!
 
 <div align="center">
 
